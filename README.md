@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning lua & vb .net
 - 💞️ I’m looking to collaborate on Stormy
 - 📫 How to reach me discord.gg/REAQTNE2ra
+- 💈 Our Store https://stormy-scratch.tebex.io/
 
 <!---
 StormyScratch1/StormyScratch1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
